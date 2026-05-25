@@ -10,7 +10,7 @@ let projects = [
   },
   {
     id: 2,
-    name: 'Design ClassDesign Systems Workshop',
+    name: 'Design Class',
     description: 'Prepare class material.',
     created_at: seededAt,
     updated_at: seededAt,
