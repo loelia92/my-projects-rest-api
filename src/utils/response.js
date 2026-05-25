@@ -9,6 +9,7 @@ export function sendResource(c, data, status = 200) {
 export function sendCollection(c, data, status = 200) {
   return c.json({ data, meta: { count: data.length } }, status)
 }
+
 export function buildErrorPayload(c, code, message, details = []) {
   return {
     error: {
