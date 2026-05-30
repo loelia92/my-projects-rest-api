@@ -20,6 +20,7 @@ export async function getProjectById(db, id) {
 
 export async function createProject(db, input) {
   const timestamp = nowIso()
+
   const values = {
     ...normalizeProjectInput(input),
     createdAt: timestamp,
