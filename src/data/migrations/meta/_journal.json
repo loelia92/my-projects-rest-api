@@ -8,6 +8,20 @@
       "when": 1780091002297,
       "tag": "0000_flawless_virginia_dare",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1780117836803,
+      "tag": "0001_overrated_nomad",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1780118510382,
+      "tag": "0002_wet_havok",
+      "breakpoints": true
     }
   ]
 }
